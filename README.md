@@ -1,2 +1,2 @@
-# h-plus-plus
+# H++
 Repository for the new web language H++
